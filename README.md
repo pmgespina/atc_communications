@@ -25,7 +25,7 @@ El corpus ATCOSIM es especialmente interesante porque es un dominio muy específ
 
 ## Bloque AUDIO
 
-### Notebook 1 — EDA: `ADNE_Proyecto_Audio_ATC_v2.ipynb`
+### Notebook 1 — EDA: `ADNE_Proyecto_Audio_ATC_EDA.ipynb`
 
 Antes de tocar ningún modelo, hay que entender qué tenemos. Este notebook es el punto de partida de todo el proyecto.
 
