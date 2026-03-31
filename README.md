@@ -12,7 +12,7 @@ El corpus ATCOSIM es especialmente interesante porque es un dominio muy específ
 
 ```
 ├── AUDIO
-│   ├── ADNE_Proyecto_Audio_ATC_v2.ipynb               # Parte 1 — EDA
+│   ├── ADNE_Proyecto_Audio_ATC_EDA.ipynb               # Parte 1 — EDA
 │   ├── ADNE_Proyecto_Audio_Part2_ML_DL.ipynb          # Parte 2 — ML Clásico + DL from scratch
 │   └── ADNE_Proyecto_Audio_Part3_TransferLearning.ipynb  # Parte 3 — Transfer Learning + ASR
 │
